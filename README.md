@@ -9,3 +9,5 @@ My DWM build.
 - Pertag - As alterações feitas em uma tag só se aplicam a ela
 - Rotatestack - reordena as janelas
 - Vanitygaps - bordas
+
+![DWM](dwm.png)
