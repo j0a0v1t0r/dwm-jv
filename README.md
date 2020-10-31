@@ -1,4 +1,4 @@
-My DWM build.
+My DWM build. I also use sxhkd for keybindings, to keep a set of shortcuts that work on any WM, so that's why the dwm config.h only contain WM related binds. If you're not using a separate keyboard daemon you should add the necessary shortcuts, otherwise there's nothing you can do, since even for the terminal i use sxhkd.
 
 # Patches
 - Attachasideandbelow - novas janelas abertas não ocuparãos a posição principal
