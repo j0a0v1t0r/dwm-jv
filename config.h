@@ -86,7 +86,8 @@ static Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_t,      setlayout,      {.v = &layouts[1]} }, /* horiz stack */
 	{ MODKEY|ShiftMask,             XK_u,      setlayout,      {.v = &layouts[2]} }, /* monocle */
 	{ MODKEY,                       XK_u,      setlayout,      {.v = &layouts[3]} }, /* deck */
-	{ MODKEY,                       XK_f,      setlayout,      {.v = &layouts[4]} }, /* floating */
+	{ MODKEY|ShiftMask,             XK_f,      setlayout,      {.v = &layouts[4]} }, /* floating */
+	{ MODKEY,             		XK_f,      fullscreen,     {0} },
 	{ MODKEY|ShiftMask,             XK_space,  togglefloating, {0} },
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
 	{ MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },
