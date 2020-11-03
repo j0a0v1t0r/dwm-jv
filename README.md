@@ -1,3 +1,5 @@
+Minha build do DWM. Para ter atalhos universais em todos os WMs eu uso sxhkd (Simple X Hotkey Daemon), por isso o arquivo config.h só possui os atalhos básicos como fechar janelas, alterar layouts, etc. Para usar essa build sem o sxhkd é necessário adicionar os atalhos necessários.
+
 My DWM build. I also use sxhkd for keybindings, to keep a set of shortcuts that work on any WM, so that's why the dwm config.h only contain WM related binds. If you're not using a separate keyboard daemon you should add the necessary shortcuts, otherwise there's nothing you can do since even for the terminal i use sxhkd.
 
 # Patches
