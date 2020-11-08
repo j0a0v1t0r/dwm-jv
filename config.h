@@ -41,6 +41,7 @@ static const Rule rules[] = {
 	{ NULL,      		NULL,       "ncmpcpp",       	    1 << 2,       0,           1,         0,        -1 },
 	{ TERMCLASS,   		NULL,       NULL,       	    0,            0,           1,         0,        -1 },
 	{ NULL,       		NULL,       "Event Tester",   	    0,            0,           0,         1,        -1 },
+	{ NULL,       		NULL,       "vifmrun",   	    0,            0,           0,         1,        -1 },
 
 };
 
