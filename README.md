@@ -11,6 +11,7 @@ My DWM build. I also use sxhkd for keybindings, to keep a set of shortcuts that 
 - [Noborder](https://dwm.suckless.org/patches/noborder/) - não existem bordas se só há uma janela aberta
 - [Pertag](https://dwm.suckless.org/patches/pertag/) - as alterações feitas em uma tag só se aplicam a ela
 - [Rotatestack](https://dwm.suckless.org/patches/rotatestack/) - reordena as janelas
+- [Resizecorners](https://dwm.suckless.org/patches/resizecorners/) - O DWM padrão só redimensiona janelas pelo canto inferior direito. O patch reconhece o canto mais próximo do cursor
 - [Statuscmd-signal](https://dwm.suckless.org/patches/statuscmd/) - executa comandos ao clicar elementos da barra de status (usado com dwmblocks)
 - [Swallow](https://dwm.suckless.org/patches/swallow/) - faz com que uma janela aberta pelo terminal o sobreponha e restaura o terminal quando a janela for fechada
 - [Vanitygaps](https://dwm.suckless.org/patches/vanitygaps/) - bordas
