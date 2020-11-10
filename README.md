@@ -16,5 +16,6 @@ My DWM build. I also use sxhkd for keybindings, to keep a set of shortcuts that 
 - [Sticky](https://dwm.suckless.org/patches/sticky/) - deixa uma janela visível em todas as tags
 - [Swallow](https://dwm.suckless.org/patches/swallow/) - faz com que uma janela aberta pelo terminal o sobreponha e restaura o terminal quando a janela for fechada
 - [Vanitygaps](https://dwm.suckless.org/patches/vanitygaps/) - bordas
+- [Xrdb](https://dwm.suckless.org/patches/xrdb/) - Lê cores do arquivo .Xresources
 
 ![DWM](dwm.png)
