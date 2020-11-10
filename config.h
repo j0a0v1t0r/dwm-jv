@@ -14,7 +14,7 @@ static const int swallowfloating    = 0;        /* 1 means swallow floating wind
 static const int smartgaps          = 1;        /* 1 means no outer gap when there is only one window */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "FantasqueSansMono:size=10:antialias:true", "FontAwesome:Regular:pixelsize=12:antialias:true", "JoyPixels:size=12:antialias=true:autohint=true" };
+static const char *fonts[]          = { "FantasqueSansMono:size=10:antialias:true", "FontAwesome:Regular:pixelsize=12:antialias:true", "JoyPixels:size=10:antialias=true:autohint=true" };
 static const char dmenufont[]       = "FantasqueSansMono:size=10";
 static char normbgcolor[]           = "#222222";
 static char normbordercolor[]       = "#444444";
